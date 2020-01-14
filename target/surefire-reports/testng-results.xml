@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Surefire suite" duration-ms="142426" started-at="2020-01-14T14:42:11 IST" finished-at="2020-01-14T14:44:33 IST">
+    <groups>
+    </groups>
+    <test name="Surefire test" duration-ms="142426" started-at="2020-01-14T14:42:11 IST" finished-at="2020-01-14T14:44:33 IST">
+      <class name="WebDriver.WebDriver.SampleTest">
+        <test-method status="PASS" signature="firstMavenTest()[pri:0, instance:WebDriver.WebDriver.SampleTest@5442a311]" name="firstMavenTest" duration-ms="48527" started-at="2020-01-14T14:42:11 IST" finished-at="2020-01-14T14:43:00 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- firstMavenTest -->
+        <test-method status="PASS" signature="secondMavenTest()[pri:0, instance:WebDriver.WebDriver.SampleTest@5442a311]" name="secondMavenTest" duration-ms="93817" started-at="2020-01-14T14:43:00 IST" finished-at="2020-01-14T14:44:33 IST">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- secondMavenTest -->
+      </class> <!-- WebDriver.WebDriver.SampleTest -->
+    </test> <!-- Surefire test -->
+  </suite> <!-- Surefire suite -->
+</testng-results>
